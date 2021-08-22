@@ -1,3 +1,4 @@
-phone_number = "phone number"
-message = ["Good morning babe", "Good morning my love", "Good morning cutie"]
-scheduled_time = "08:00"
+phone_number = "+393927453351"
+message = ["funziona?"]
+scheduled_time = "16:34"
+pyton3 main.py > pid.txt 2>&1 &
